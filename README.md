@@ -1,4 +1,4 @@
-# Création-d-un-IHM-pour-une-cellule-robotisé
+# Création d'un IHM pour une cellule robotisé
 Objectif : Création d'un IHM avec EasyBuiler Pro pour un atomate WAGO dans le cadre d'une intégration d'une cellule robotisé.
 
 Chemin du produit pour la cellule : 
